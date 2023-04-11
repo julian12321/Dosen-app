@@ -1,0 +1,13 @@
+D:\5372\github\github\bin\Debug\github.exe.config
+D:\5372\github\github\obj\Debug\github.csprojResolveAssemblyReference.cache
+D:\5372\github\github\bin\Debug\github.exe
+D:\5372\github\github\bin\Debug\github.pdb
+D:\5372\github\github\obj\Debug\github.exe
+D:\5372\github\github\obj\Debug\github.pdb
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\bin\Debug\github.exe.config
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\bin\Debug\github.exe
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\bin\Debug\github.pdb
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\obj\Debug\github.csproj.AssemblyReference.cache
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\obj\Debug\github.exe
+C:\Users\M.Julian\OneDrive\Documents\program\C#\github\github\obj\Debug\github.pdb
